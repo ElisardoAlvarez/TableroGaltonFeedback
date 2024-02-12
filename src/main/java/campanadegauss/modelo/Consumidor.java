@@ -1,4 +1,4 @@
-package main.java.com.examenuax.campanadegauss.modelo;
+package main.java.campanadegauss.modelo;
 
 /**
  * Representa la línea de ensamblaje que consume componentes del búfer compartido.

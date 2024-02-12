@@ -1,6 +1,6 @@
-package main.java.com.examenuax.campanadegauss;
+package main.java.campanadegauss;
 
-import main.java.com.examenuax.campanadegauss.controlador.Controlador;
+import main.java.campanadegauss.controlador.Controlador;
 
 /**
  * Punto de entrada principal para la simulación de la fábrica "Campanas de Gauss" siguiendo el patrón MVC.
